@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'Developer Guide',
-                to: '/docs/developer/intro',
+                to: '/docs/developer-guide/integration-overview',
               },
             ],
           },

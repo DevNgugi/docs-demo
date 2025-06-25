@@ -128,4 +128,4 @@ Our support is available 24/7 to help resolve any issues.
 
 ---
 
-For more information on how to use Nairopay effectively, refer to our [User Guide](/user-guide/getting-started) or [FAQ](/user-guide/faq).
+For more information on how to use Nairopay effectively, refer to our [User Guide](./getting-started) or [FAQ](./faq).

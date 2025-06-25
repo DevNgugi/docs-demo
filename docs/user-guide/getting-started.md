@@ -57,7 +57,7 @@ Check your spam or promotions folder. If it’s still missing after 5 minutes, c
 
 ## Need Help?
 
-Visit the [Troubleshooting Guide](../user-guide/troubleshooting) or reach out to our support team via [live chat](https://Nairopay.co.ke/support).
+Visit the [Troubleshooting Guide](./troubleshooting-guide) or reach out to our support team via [live chat](https://Nairopay.co.ke/support).
 
 ---
 
